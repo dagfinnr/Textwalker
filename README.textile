@@ -6,6 +6,9 @@ Textwalker is a simple object-oriented library that searches and manipulates tex
 
 You can search backwards and forwards in the text, bookmark parts of the text, get text between bookmarks.
 
+demo.php is a simple example that can be run from the command line. It extracts links and titles from slashdot.html,
+which is an arbitrary snapshot of the Slashdot front page.
+
 h2. Why and when?
 
 This is an old experimental project that I've had lying around for years. I have no idea whether it might be useful.
