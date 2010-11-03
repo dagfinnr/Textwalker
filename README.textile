@@ -1,0 +1,11 @@
+h1. Textwalker
+
+h2. What?
+
+Textwalker is a simple object-oriented library that searches and manipulates text in a way similar to word processors.
+
+You can search backwards and forwards in the text, bookmark parts of the text, get text between bookmarks.
+
+h2. Why and when?
+
+This is an old experimental project that I've had lying around for years. I have no idea whether it might be useful.
